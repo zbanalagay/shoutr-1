@@ -1,6 +1,4 @@
-angular.module('shoutr.auth', [
-
-])
-.controller('authController', [function(){
+angular.module('shoutr.auth', [])
+.controller('authController', function(){
   
-}])
+})
